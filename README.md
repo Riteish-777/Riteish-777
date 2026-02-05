@@ -1,10 +1,8 @@
-# 🚀 AI Task Execution System
+# 🚀 Hi I’m Riteish Chaurasiya
 
 An intelligent AI-powered assistant capable of understanding voice commands, performing web searches, remembering context using vector memory, and executing automated tasks through an interactive interface.
 
 This project combines **Natural Language Processing, Memory Systems, Automation, and UI** into one unified AI agent.
-
----
 
 ## 🧠 Core Features
 
@@ -32,8 +30,3 @@ This project combines **Natural Language Processing, Memory Systems, Automation,
 - Interactive dashboard  
 - Displays AI responses, memory hits, and task progress  
 - Easy control and monitoring  
-
----
-
-
-
